@@ -8,7 +8,7 @@ pageextension 50000 "ATT CustomerListExt" extends "Customer Card"
             {
                 ApplicationArea = All;
             }
-            field("ATT Pasword 3"; Rec."ATT Pasword 3")
+            field("ATT Pasword 2"; Rec."ATT Pasword 2")
             {
                 ApplicationArea = All;
             }
