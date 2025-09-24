@@ -10,6 +10,11 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
 
 
+    trigger OnClosePage()
+    var
+        myInt: Integer;
+    begin
 
+    end;
 
 }
