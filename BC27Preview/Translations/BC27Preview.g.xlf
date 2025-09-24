@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC27Preview">
+    <body>
+      <group id="body">
+        <trans-unit id="TableExtension 1126092751 - Field 1491652503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Pasword</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Contraseña"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ATT Customer - Field ATT Pasword - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1126092751 - Field 2445415513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Pasword 2</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Contraseña 2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ATT Customer - Field ATT Pasword 2 - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
